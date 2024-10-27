@@ -10,10 +10,8 @@ Hello! My name is **João Bosco**. I am currently studying **Information Systems
 
 | Operating system  | About          |
 |-------------|----------------|
-| ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white) | Learning. |
-| ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) | Main editor. |
-| ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important) | preference for low-level programming |
-| ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white) | Organization, studies and general notes |
+| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)| Main operating system, time of use about 6 months. |
+| ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | Use as a last resort (only when necessary). |
 
 | IDEs/Editors  | About          |
 |-------------|----------------|
